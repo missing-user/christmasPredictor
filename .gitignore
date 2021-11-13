@@ -2,3 +2,5 @@ spotifyEnv
 .env
 archive.zip
 archive
+.vscode
+*.png

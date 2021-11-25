@@ -22,7 +22,7 @@ But isn't there a better way? What makes for example the 25th December so specia
 
 That is the issue I sought out to solve. Finding a better date for Christmas, which isn't determined by arbitrary astronomical periods or historic reasons, but rather by when society _feels_ Christmas should be. 
 
-         Why can't we just celebrate Christmas when we feel like it?
+> Why can't we just celebrate Christmas when we feel like it?
 
 But how can we determine when people feel like Christmas? Is there anything, that is so closely linked to our emotional state, that we can measure?
 
@@ -57,16 +57,16 @@ Plugging in today's (25 Nov 2021) global Spotify charts, the model returns 04 Fe
 ## Comments from the void
 Every revolutionary idea will be met with resistance, but I am convinced, that selecting a Christmas date based on when people feel like it instead of a fixed date, would have great benefits for society and is worth pursuing. During the making, I got lots of feedback on the project, some of which have been posted here. 
 
-    I don't know how much time you spent on this, but I know it was too much.  
+A friend:
+> I don't know how much time you spent on this, but I know it was too much.  
+
 My colleagues:
+> Lol
 
-    Lol
-Friends and family:
+> Whoever made this is an idiot. 
+> Wait you did? Why???
 
-    Whoever made this is an idiot. 
-    Wait you did? Why???
 Someone online:
-
-    Wow, that's useless!
+> Wow, that's useless!
 
 

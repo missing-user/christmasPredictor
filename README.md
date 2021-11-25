@@ -55,7 +55,7 @@ By fitting a mathematical function to the historic Christmas mood data, we obtai
 Plugging in today's (25 Nov 2021) global Spotify charts, the model returns 04 Feb 2022 as recommended date for next Christmas. I personally agree that that would be a much better date for Christmas, instead of next month, giving me enough time to shop for presents sometime in January.
 
 ## Comments from the void
-Every revolutionary idea will be met with resistance, but I am convinced, that selecting a Christmas date based on when people feel like it instead of a fixed date, would have great benefits for society and is worth pursuing. During the making, I got lots of feedback on the project, some of which have been posted here. 
+Every revolutionary idea will be met with resistance. Nonetheless I am convinced, that selecting a Christmas date based on _when people feel like Christmas_, instead of having a fixed date, would have major benefits for society. During the making, I got lots of criticism on the project, some of which have been posted here. 
 
 A friend:
 > I don't know how much time you spent on this, but I know it was too much.  

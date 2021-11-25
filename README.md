@@ -24,7 +24,7 @@ That is the issue I sought out to solve. Finding a better date for Christmas, wh
 
 > Why can't we just celebrate Christmas when we feel like it?
 
-But how can we determine when people feel like Christmas? Is there anything, that is so closely linked to our emotional state, that we can measure?
+But how can we determine when people feel like Christmas? Is there anything, that is so closely linked to our perception of time, that we can measure?
 
 ## The Solution
 **Music!** What else reflects human emotions as accurately as art and music? Especially Christmas is characterized by the obnoxious number of Christmas songs that play on loop during the season. Nothing shouts Christmas more than Jingle Bells, Feliz Navidad, and Wham!'s Last Christmas on repeat! 
